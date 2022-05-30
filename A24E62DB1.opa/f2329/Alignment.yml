@@ -1,0 +1,26 @@
+segment_sources:
+  I498A8542:
+    type: origin_type
+    relation: translation
+    language: en
+  I777EE7B8:
+    type: origin_type
+    relation: translation
+    language: pt
+  IC9D0BBD5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b34d7911a0ab4455932a51ed3ccd5bc3:
+    I498A8542: fbde76fdf8274c2dbfdcee1f9ebc1f34
+    I777EE7B8: fcfa153c7ef04894b8581a7fcc3f2eb1
+    IC9D0BBD5: a2821bfba34948298a5d0c2b844600fe
+  a3352ec263bf4241a79a3d2b989af3fe:
+    I498A8542: cf4d9848d076490b8e5cf9620e1a1e8e
+    I777EE7B8: ff590ecab991441485705a06f55c8af0
+    IC9D0BBD5: 7dd11659f28c41faa4f57e4068fc285b
+  8ef5a6732b8a473caced62ac52f5fada:
+    I498A8542: 89cc6ee39c5246f890648797db5e76ac
+    I777EE7B8: 57aa9b013fc0426a8709fa347b29b6ec
+    IC9D0BBD5: 4d5a16ad07be4ead90d6f4dbcc6d8a3f
